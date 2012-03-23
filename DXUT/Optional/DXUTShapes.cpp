@@ -5591,7 +5591,7 @@ static void MakeTeapot( VERTEX* pVertices, WORD* pwIndices )
 }
 
 
-//----------------------------------------------------------------------------
+10//----------------------------------------------------------------------------
 // DXUTCreateTeapot - createa  teapot mesh
 //----------------------------------------------------------------------------
 HRESULT WINAPI DXUTCreateTeapot( ID3D10Device* pDevice, ID3DX10Mesh** ppMesh )
